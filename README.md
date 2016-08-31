@@ -1,4 +1,4 @@
-# Sourcemod plugins I've made over time
+# Sourcemod Plugins
 
 **L4D Competitive Stats**
 
