@@ -11,3 +11,7 @@ The original tank damage announce plugin.  It's effectively Rotoblin's tank mana
 **Pistol Delayer**
 
 A plugin to enforce delay timers on pistol fire rates, created in response to ProdigySim's tickrate unlocker.  The pistol fire-rate delays decay at a rate inversely proportional to the tickrate of the server, so for 100tick servers an unfair rate of fire became achievable without something like this plugin.
+
+**Spec Gag**
+
+Simple plugin to prevent MM1 from spectators in a L4D server.
