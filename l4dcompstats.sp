@@ -1,6 +1,11 @@
-/* L4D Competitive Stats
- * by Griffin & Philogl
-*/
+/**
+ * =============================================================================
+ * L4D Competitive Stats
+ * Track and display various round-based survivor and infected statistics.
+ * 
+ * - Griffin and Philogl
+ * =============================================================================
+ */
 
 public Plugin:myinfo =
 {
